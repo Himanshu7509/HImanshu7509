@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJs, ReactJs**
 
-- 💬 Ask me about **Bootstrap, React, Tailwindcss**
+- 💬 Ask me about **Bootstrap, React, Tailwindcss, Scss**
 
 - 📫 How to reach me **himanshuthakre7509@gmail.com**
 
