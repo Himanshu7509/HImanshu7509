@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🔭 **Currently Working On**
 - 💬 Real-time Chat App using **Next.js, Redis & Socket.IO**
